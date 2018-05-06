@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="612f3dd5-d299-4ed7-b7f0-5de334c14fad">
+  <producedTypes>
+    <objectType typeId="2e06e075-4c41-4d18-a306-dfdf0434cb50" valueTypeId="3edad868-b287-4d77-8cfc-71c94c2d7317"/>
+    <managerType typeId="1669c165-3b73-480a-901f-164b97887963" valueTypeId="0d4a07f0-0caa-4e0a-ab99-e9c2a04c090d"/>
+  </producedTypes>
+  <name>Обработка</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обработка</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <attributes uuid="8097f947-af19-43b0-b012-84e6d55bfbb5">
+    <name>Реквизит</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+  </attributes>
+</mdclass:DataProcessor>
