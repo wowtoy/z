@@ -29,4 +29,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.обр</subsystems>
+  <dataProcessors>DataProcessor.Обработка</dataProcessors>
 </mdclass:Configuration>
