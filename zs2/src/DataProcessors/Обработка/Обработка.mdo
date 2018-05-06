@@ -23,4 +23,17 @@
       </stringQualifiers>
     </type>
   </attributes>
+  <attributes uuid="8fb46814-589e-4449-9ac0-8e309daa2b27">
+    <name>Реквизит1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Реквизит1</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+  </attributes>
 </mdclass:DataProcessor>

@@ -15,4 +15,10 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>com._1c.g5.v8.dt.core.V8ConfigurationNature</nature>
 	</natures>
+	<variableList>
+		<variable>
+			<name>bitbuck</name>
+			<value>file:/C:/Users/%D1%8F/git/src/.git/config</value>
+		</variable>
+	</variableList>
 </projectDescription>
